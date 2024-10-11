@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, Sans-serif;
+    color: white;
+}
+
+.container{
+    width: 1180px;
+    margin: auto;
+    background: #21654d;
+    overflow: hidden;
+    padding-bottom: 20px;
+}
+
+.image-container{
+    width: 700px;
+    overflow: hidden;
+    margin: auto;
+}
+
+.image-comtainer img{
+    width: 100%;
+    margin: 40px 0px 0px 0px;
+}
+
+.p-info h1{
+    text-align: center;
+    margin: 10px 0px;
+    font-size: 45px; 
+}
+
+.p-info p{
+    text-align: center;
+    margin: 10px 0px;
+    font-size: 20px;
+}
+
+.para1,.para2,.para3{
+    text-align: justify;
+    padding-top: 20px;
+}
+
+.info{
+    text-align: center;
+    padding-top: 20px;
+}
